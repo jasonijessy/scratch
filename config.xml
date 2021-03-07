@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--修改id-->
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "cn.yogeek.flappybird"
+    versionCode = "10"
+    version     = "1.0.0" >
+ 
+<!--APP的名称-->
+  <name>太空大战@小舜</name>
+<!--APP的描述-->
+  <description>
+      太空大战@小舜
+  </description>
+<!--APP的作者-->
+  <author href="https://edu.yogeek.cn" email="50599476@qq.com">
+      小舜
+  </author>
+<!--APP的图片-->
+  <icon src='ico.png' />
+ 
+</widget>
